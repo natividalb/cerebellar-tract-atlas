@@ -35,15 +35,6 @@ reflecting that it was built from all 30 subjects in MNI space.
 | SCP  | — (single bundle) |
 | SPNC | L, R |
 
-### File formats
-
-- **`.tck`** — MRtrix3 tractography format, readable with MRtrix3
-  (`mrview`, `tckinfo`) or libraries such as `nibabel` / `dipy` (Python).
-- **`.bundles` / `.bundlesdata`** — BrainVISA/Connectomist bundle format
-  (text header + binary streamline data), readable with Anatomist/BrainVISA
-  or the `pybrainvisa`/`soma-io` tooling.
-- **`.hie`** — hierarchy file defining bundle names and display colors for
-  Anatomist.
 
 ## Usage
 
