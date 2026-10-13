@@ -1,0 +1,9 @@
+attributes = {
+    'binary' : 1,
+    'bundles' : ['CTC_R_all30_MNI_21p', 0],
+    'byte_order' : 'DCBA',
+    'curves_count' : 21634,
+    'data_file_name' : '*.bundlesdata',
+    'format' : 'bundles_1.0',
+    'space_dimension' : 3
+  }

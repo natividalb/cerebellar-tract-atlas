@@ -1,0 +1,9 @@
+attributes = {
+    'binary' : 1,
+    'bundles' : ['SPNC_L_all30_MNI_21p', 0],
+    'byte_order' : 'DCBA',
+    'curves_count' : 11148,
+    'data_file_name' : '*.bundlesdata',
+    'format' : 'bundles_1.0',
+    'space_dimension' : 3
+  }

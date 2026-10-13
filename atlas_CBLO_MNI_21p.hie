@@ -1,0 +1,128 @@
+# tree 1.0
+
+*BEGIN TREE hierarchy
+graph_syntax RoiArg
+
+*BEGIN TREE fold_name
+name  CPH_R_all30_MNI_21p
+color 91 91 170
+
+*END
+
+*BEGIN TREE fold_name
+name  CPH_L_all30_MNI_21p
+color 91 91 170
+
+*END
+
+*BEGIN TREE fold_name
+name  CTC_R_all30_MNI_21p
+color 210 21 21
+
+*END
+
+*BEGIN TREE fold_name
+name  CTC_L_all30_MNI_21p
+color 210 21 21
+
+*END
+
+*BEGIN TREE fold_name
+name  DRTC_R_all30_MNI_21p
+color 80 204 240
+
+*END
+
+*BEGIN TREE fold_name
+name  DRTC_L_all30_MNI_21p
+color 80 204 240
+
+*END
+
+*BEGIN TREE fold_name
+name  FPC_R_all30_MNI_21p
+color 31 21 213
+
+*END
+
+*BEGIN TREE fold_name
+name  FPC_L_all30_MNI_21p
+color 31 21 213
+
+*END
+
+*BEGIN TREE fold_name
+name  ICP_R_all30_MNI_21p
+color 40 110 210
+
+*END
+
+*BEGIN TREE fold_name
+name  ICP_L_all30_MNI_21p
+color 40 110 210
+
+*END
+
+*BEGIN TREE fold_name
+name  MCP_all30_MNI_21p
+color 241 152 255
+
+*END
+
+*BEGIN TREE fold_name
+name  OPC_R_all30_MNI_21p
+color 38 109 76
+
+*END
+
+*BEGIN TREE fold_name
+name  OPC_L_all30_MNI_21p
+color 38 109 76
+
+*END
+
+*BEGIN TREE fold_name
+name  OVC_all30_MNI_21p
+color 255 109 0
+
+*END
+
+*BEGIN TREE fold_name
+name  PAG_all30_MNI_21p
+color 95 218 65
+
+*END
+
+*BEGIN TREE fold_name
+name  PPC_R_all30_MNI_21p
+color 161 64 191
+
+*END
+
+*BEGIN TREE fold_name
+name  PPC_L_all30_MNI_21p
+color 161 64 191
+
+*END
+
+*BEGIN TREE fold_name
+name  SPNC_R_all30_MNI_21p
+color 249 215 37
+
+*END
+
+*BEGIN TREE fold_name
+name  SPNC_L_all30_MNI_21p
+color 249 215 37
+
+*END
+
+*BEGIN TREE fold_name
+name  SCP_all30_MNI_21p
+color 191 64 67
+
+*END
+
+*END
+
+*END
